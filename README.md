@@ -10,7 +10,7 @@ Team 5 Members:
 
 Kraggle Dataset:  [https://www.kaggle.com/datasets/shivamb/netflix-shows/data](https://www.kaggle.com/datasets/carolzhangdc/imdb-5000-movie-dataset)
 
-Goal: Create a model to predict what tv shows/movies will be popular on Netflix next year.
+Goal: Create a model to predict what movies will be popular/provide intel for movie productions on what will be popular.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -29,5 +29,5 @@ Team Executing Process:
 5. Interactive Tableau Charts
    - https://public.tableau.com/app/profile/ryan.sambila/viz/MoviesbyFBLikeIMBDScores-Project42/MovieDirectors-FacebookLikesIMDbScores?publish=yes
 6. Data Modeling with datamodel.ipynb Jupyter notebook
-
+- two models are created: a model predicting IMDb score & a model predicting for existing movies
 7. x

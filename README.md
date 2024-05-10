@@ -12,6 +12,8 @@ Kraggle Dataset:  https://www.kaggle.com/datasets/shivamb/netflix-shows/data
 
 Goal: Create a model to predict what tv shows/movies will be popular on Netflix next year.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Team Executing Process: 
 1. Clean Data with clean_data_project4.ipynb Jupyter Notebook
 2. SQL database to store cleaned data

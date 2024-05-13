@@ -38,4 +38,5 @@ Team Executing Process:
    - https://public.tableau.com/app/profile/ryan.sambila/viz/MoviesbyFBLikeIMBDScores-Project42/MovieDirectors-FacebookLikesIMDbScores?publish=yes
 6. Data Modeling with datamodel.ipynb Jupyter notebook
 - two models are created: a model predicting IMDb score & a model predicting for existing movies
-7. x
+- first model: datamodel.ipynb
+- second model: datamodel_2.ipynb

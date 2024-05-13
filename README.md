@@ -25,7 +25,15 @@ Team Executing Process:
 2. SQL database to store cleaned data
    - Use Project4_schema.sql File to craete database to store cleaned_
 4. Visualzation
-   - IrisVisualization
+   - IrisVisualizations
+      - Imported dependencies and setup: Matplotlib, pandas, numpy, and a few extras
+      - Read in the cleaned dataset
+      - Used pandas dataframes to look at directors' IMDB scores and how they are distributed
+      - Found the average IMBD score by genre and created a bar graph
+      - Created a scatterplot with linear regression showing the relationship between IMDB score and total cast FB likes
+      - Re-created the plot with outliers removed, for a better visualization
+      - Looked at the top-rated and most common actors in Netflix movies, created bar charts
+      - Created a map showing the average IMDB score by country (had to re-clean the data and import plotly for this)
 5. Interactive Tableau Charts
    - https://public.tableau.com/app/profile/ryan.sambila/viz/MoviesbyFBLikeIMBDScores-Project42/MovieDirectors-FacebookLikesIMDbScores?publish=yes
 6. Data Modeling with datamodel.ipynb Jupyter notebook

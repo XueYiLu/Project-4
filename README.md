@@ -24,7 +24,7 @@ Team Executing Process:
 1. Clean Data with clean_data_project4.ipynb Jupyter Notebook
 2. SQL database to store cleaned data
    - Use Project4_schema.sql File to craete database to store cleaned_
-4. Visualzation
+4. Visualization
    - IrisVisualizations
       - Imported dependencies and setup: Matplotlib, pandas, numpy, and a few extras
       - Read in the cleaned dataset
@@ -34,6 +34,7 @@ Team Executing Process:
       - Re-created the plot with outliers removed, for a better visualization
       - Looked at the top-rated and most common actors in Netflix movies, created bar charts
       - Created a map showing the average IMDB score by country (had to re-clean the data and import plotly for this)
+   - MaritzaVisualizations
 5. Interactive Tableau Charts
    - https://public.tableau.com/app/profile/ryan.sambila/viz/MoviesbyFBLikeIMBDScores-Project42/MovieDirectors-FacebookLikesIMDbScores?publish=yes
 6. Data Modeling with datamodel.ipynb Jupyter notebook

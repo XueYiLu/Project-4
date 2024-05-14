@@ -8,7 +8,7 @@ Team 5 Members:
 4. Ryan Sambila
 5. Chai Kota
 
-Kraggle Dataset:  [https://www.kaggle.com/datasets/carolzhangdc/imdb-5000-movie-dataset]
+Kraggle Dataset:  https://www.kaggle.com/datasets/carolzhangdc/imdb-5000-movie-dataset
 
 Goal: Create a model to predict what movies will be popular/provide intel for movie productions on what will be popular.
 

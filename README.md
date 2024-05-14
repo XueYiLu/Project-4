@@ -35,6 +35,10 @@ Team Executing Process:
       - Looked at the top-rated and most common actors in Netflix movies, created bar charts
       - Created a map showing the average IMDB score by country (had to re-clean the data and import plotly for this)
    - MaritzaVisualizations
+   - Imported dependencies and setup Pandas, Matplotlib, numpy, skilearn.linear_model to import linear regression, etc.
+   - Read in the cleaned dataset
+   - I use matplotlib, numpy, and  linear regression model to create a scatter plot by using IMDB scores for future movie/tv shows prediction
+   - I created a bar graph between actors/actresses and movie ratings by using the highest Facebook likes
 5. Interactive Tableau Charts
    - https://public.tableau.com/app/profile/ryan.sambila/viz/MoviesbyFBLikeIMBDScores-Project42/MovieDirectors-FacebookLikesIMDbScores?publish=yes
 6. Data Modeling with datamodel.ipynb Jupyter notebook
